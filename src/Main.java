@@ -33,8 +33,11 @@ public class Main {
         boolean check100 = !(year % 100 == 0);
         boolean check400 = year % 400 == 0;
         System.out.println("\nExercise 3");
-        if (check4 && check100 || check400) System.out.println("Год " + year + " является високосным");
-        else System.out.println("Год " + year + " не является високосным");
+        if (check4 && check100 || check400) {
+            System.out.println("Год " + year + " является високосным");
+        } else {
+            System.out.println("Год " + year + " не является високосным");
+        }
 
         //////////////////////// Exercise 4 ////////////////////////
         int deliveryDistance = 101;
