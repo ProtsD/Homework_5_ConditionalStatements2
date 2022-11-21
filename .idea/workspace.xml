@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b3a94c8-5b56-440f-a88c-e29d265cb19a" name="Changes" comment="Home Work is done! Brackets are added #2.">
+    <list default="true" id="7b3a94c8-5b56-440f-a88c-e29d265cb19a" name="Changes" comment="Home Work is done! Brackets are added #3.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <updated>1668593408422</updated>
       <workItem from="1668593409679" duration="10758000" />
       <workItem from="1668757978974" duration="1147000" />
-      <workItem from="1668942917144" duration="927000" />
+      <workItem from="1668942917144" duration="1981000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668595407520</created>
@@ -96,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668772358178</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Home Work is done! Brackets are added #3.">
+      <created>1668944314285</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668944314285</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +124,7 @@
     <MESSAGE value="Home Work is done!" />
     <MESSAGE value="Home Work is done! Brackets are added." />
     <MESSAGE value="Home Work is done! Brackets are added #2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Home Work is done! Brackets are added #2." />
+    <MESSAGE value="Home Work is done! Brackets are added #3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Home Work is done! Brackets are added #3." />
   </component>
 </project>
